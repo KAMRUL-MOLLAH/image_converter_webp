@@ -1,0 +1,3 @@
+mkdir image_converter_tool
+cd image_converter_tool
+touch image_converter.py requirements.txt  # Create the Python script and requirements file
